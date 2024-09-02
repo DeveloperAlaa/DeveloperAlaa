@@ -5,10 +5,10 @@
 -  🖥️ Frontend: HTML, CSS, JavaScript, TailwindCSS, Vue.js 3, Nuxt.js, NuxtUI, Pinia, TypeScript
 -  🌐 Backend: Node.js, Express.js, NestJS
 - 🗄️ Database: MongoDB, PostgreSQL
--🛠️ Tools: Git, GitHub
--✅ Best Practices: Testing, Clean Code
+- 🛠️ Tools: Git, GitHub
+- ✅ Best Practices: Testing, Clean Code
 
-**I thrive on solving complex problems and am always eager to learn and adopt new technologies to enhance my skills.
+**I thrive on solving complex problems and am always eager to learn and adopt new technologies to enhance my skills.**
 
 **Fun Fact: When I’m not coding, you can find me exploring new technologies, experimenting with innovative frameworks, and staying up-to-date with the latest trends in the tech world. 🚀**
 
