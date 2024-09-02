@@ -1,5 +1,5 @@
 ## Hi there 👋
-# My name is Alaa
+### My name is Alaa
 **I’m a passionate Full Stack Engineer with a knack for building dynamic and responsive web applications. My tech stack includes:**
 
 -  🖥️ Frontend: HTML, CSS, JavaScript, TailwindCSS, Vue.js 3, Nuxt.js, NuxtUI, Pinia, TypeScript
