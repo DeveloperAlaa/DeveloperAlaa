@@ -1,12 +1,9 @@
 ## Hi there 👋
 ### My name is Alaa.
-**I’m a passionate Full Stack Engineer with a knack for building dynamic and responsive web applications. My tech stack includes:**
+**I’m a passionate Frontend Developer with a knack for building dynamic and responsive web applications. My tech stack includes:**
 
--  🖥️ Frontend: HTML5, CSS3, JavaScript, TailwindCSS, Vue.js 3, Nuxt.js 3, NuxtUI, Pinia, TypeScript
--  🌐 Backend: Node.js, Express.js, NestJS
-- 🛢 Database: MongoDB, PostgreSQL
-- 🛠️ Tools: Git, GitHub
-- 👌 Best Practices: ECMAScript, Testing, Clean Code
+- tech stack: HTML5, CSS3, TailwindCSS, JavaScript, TypeScript, Vue.js, React.js, Next.js, Node.js
+- Best Practices: ECMAScript, Testing, Clean Code
 
 **I thrive on solving complex problems and am always eager to learn and adopt new technologies to enhance my skills.**
 
