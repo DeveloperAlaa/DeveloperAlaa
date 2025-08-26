@@ -2,8 +2,15 @@
 ### My name is Alaa.
 **I’m a passionate Frontend Developer with a knack for building dynamic and responsive web applications. My tech stack includes:**
 
-- tech stack: HTML5, CSS3, TailwindCSS, JavaScript, TypeScript, Vue.js, React.js, Next.js, Node.js
-- Best Practices: ECMAScript, Testing, Clean Code
+* HTML5
+* CSS3
+* TailwindCSS
+* JavaScript 
+* TypeScript
+* Vue.js
+* React.js
+* Next.js
+* Node.js
 
 **I thrive on solving complex problems and am always eager to learn and adopt new technologies to enhance my skills.**
 
